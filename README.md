@@ -10,3 +10,5 @@ RandomForestRegression - From https://github.com/ipython-books/cookbook-code/blo
 CaffeTutorialCS231nModded - modified from a Caffe Tutorial from Satnford's deep learning class - March 4 lecture - http://cs231n.stanford.edu/syllabus.html
 
 CaffeCifar10TrainCPP - ipython capture of running cpp caffe tools to train a network on Cifar10.  Modified from http://caffe.berkeleyvision.org/gathered/examples/cifar10.html
+
+Cifar10TestRandomImage - grab random image from google and test the Cifar10 classifier you just made using CaffeCifar10TrainCPP
