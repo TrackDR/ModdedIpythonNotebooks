@@ -1,7 +1,7 @@
 # ModdedIpythonNotebooks
 Modding other's Ipython Notebooks
 
-ClassifierIris - from http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_iris.html
+[ClassifierIris](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/ClassifierIris.ipynb) - from http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_iris.html
 
 ImageStuff - some random examples from skimage
 
