@@ -12,3 +12,5 @@ Modding other's Ipython Notebooks
 [CaffeCifar10TrainCPP](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/CaffeCifar10TrainCPP.ipynb) - ipython capture of running cpp caffe tools to train a network on Cifar10.  Modified from http://caffe.berkeleyvision.org/gathered/examples/cifar10.html
 
 [Cifar10TestRandomImage](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/Cifar10TestRandomImage.ipynb) - grab random image from google and test the Cifar10 classifier you just made using CaffeCifar10TrainCPP
+
+[BlindSourceSeparationUsingFastICA](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/BlindSourceSeparationUsingFastICA.ipynb) - From http://scikit-learn.org/stable/auto_examples/decomposition/plot_ica_blind_source_separation.html
