@@ -1,8 +1,6 @@
 # ModdedIpythonNotebooks
 Modding other's Ipython Notebooks
 
-#[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/trackdr/moddedipythonnotebooks)
-
 [ClassifierIris](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/ClassifierIris.ipynb) - from http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_iris.html
 
 [ImageStuff](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/ImageStuff.ipynb) - some random examples from skimage
