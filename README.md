@@ -2,8 +2,8 @@ ModdedIpythonNotebooks
 =====================
 Modding other's Ipython Notebooks
 
-### Launch on Binder 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/trackdr/moddedipythonnotebooks)
+# ### Launch on Binder 
+# [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/trackdr/moddedipythonnotebooks)
 
 [ClassifierIris](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/ClassifierIris.ipynb) - from http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_iris.html
 
