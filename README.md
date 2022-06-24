@@ -19,3 +19,4 @@ Run on Azure: https://notebooks.azure.com/trackdr/libraries/trackdr-ModdedIpytho
 [BlindSourceSeparationUsingFastICA](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/BlindSourceSeparationUsingFastICA.ipynb) - From http://scikit-learn.org/stable/auto_examples/decomposition/plot_ica_blind_source_separation.html
 
 [Intel® Extension for Scikit-learn Kmeans for spoken arabic digit dataset](kmeans-scikit-learn-intelex.ipynb)
+- from https://intel.github.io/scikit-learn-intelex/index.html
