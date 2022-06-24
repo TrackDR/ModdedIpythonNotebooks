@@ -27,3 +27,4 @@ Run on Azure: https://notebooks.azure.com/trackdr/libraries/trackdr-ModdedIpytho
 
 [Intel® Extension for Scikit-learn Kmeans for spoken arabic digit dataset](kmeans-scikit-learn-intelex.ipynb)
 - from https://intel.github.io/scikit-learn-intelex/index.html
+- https://github.com/intel/scikit-learn-intelex/tree/master/examples/notebooks
